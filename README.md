@@ -1,12 +1,17 @@
-# 🕵️‍♀️ Escape Game Numérique – Hackathon MNS 2024
+# 🕵️‍♀️ Escape Game Numérique – Hackathon MNS 2024 ![Hackathon Badge](https://img.shields.io/badge/Projet-Hackathon%20MNS%202024-blueviolet)
 
-## 👥 Réalisé par l’équipe des **Ran-gers du Code**
-
+## 👥 Équipe : **Les Ran-gers du Code**
 Axe, Océane, Fabrice, Noémie, Jordane, Nine, Julian, Hélène, Christopher, Ohara, Olivier, Zineddine et Luc
 
 ---
 
-**Bienvenue dans notre Escape Game Numérique**, une aventure immersive mêlant défis ludiques, pédagogie et sensibilisation aux enjeux du numérique et de la cybersécurité.
+## 📑 Sommaire
+- [🔧 1. Préparation technique](#-1-préparation-technique)
+- [🚀 2. Lancement de l’expérience](#-2-lancement-de-lexpérience)
+- [🧩 3. Les étapes du jeu](#-3-les-étapes-du-jeu)
+- [🔍 4. Résolution finale](#-4-résolution-finale)
+- [🎉 5. Récompense](#-5-récompense)
+- [🎯 Pourquoi participer ?](#-pourquoi-participer)
 
 ---
 
